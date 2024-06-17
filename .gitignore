@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Build directories
+build/
+dist/
+coverage/
+coverage-unit/
+
+# MacOS
+.DS_Store
+
+# Ignore test coverage files
+lcov-report/
+coverage/
+
+.env
